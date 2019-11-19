@@ -1,3 +1,8 @@
+---
+layout: post
+title: 3rd-Party SFPs in Cisco Switches
+---
+
 Works with many Cisco CatXXXX-Switch-Series
 
 **CLI**
